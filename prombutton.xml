@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Buy Sisters Prom 2015 Tickets" />
+<Content type="html"><![CDATA[
+
+<!--BEGIN PLANETREG BUTTON CODE!-->
+<link rel="stylesheet" type="text/css" href="http://www.planetReg.com/admin/PRbutton.css" />
+<div id="button2" class="RBtnTab" >
+<a href="http://www.planetReg.com/E491474123989">
+<span>Buy Tickets</span></a>
+<div class="PR">
+<a href="http://www.planetReg.com" class="PRa">online event registration</a>
+<br><a href="http://www.planetReg.com" class="PRa">by PlanetReg</a>
+</div></div>
+<!--END PLANETREG BUTTON CODE!-->
+
+]]></Content>
+</Module>
